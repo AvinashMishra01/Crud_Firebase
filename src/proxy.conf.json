@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "https://crud-81adb-default-rtdb.firebaseio.com",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}

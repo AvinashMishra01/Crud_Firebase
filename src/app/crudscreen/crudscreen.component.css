@@ -1,0 +1,13 @@
+.r_emp{
+  FONT-WEIGHT: 500;
+    font-size: medium;
+    color: brown;
+    font-style: italic;
+}
+table {
+  width: 100%;
+}
+.container{
+  max-width: fit-content;
+  background-color:black;
+}
